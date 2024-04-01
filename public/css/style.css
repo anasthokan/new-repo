@@ -1,0 +1,192 @@
+/* body{
+    margin-left: 2rem;
+} */
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    height: 4rem;
+   
+}
+
+.nav-bar-1{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.nav-bar-2{
+    margin: auto;
+    background-color:#071A45;
+    height: 3rem;
+    width: 23rem;
+   border-radius: 20px;
+   padding-top: 1rem;
+   
+}
+
+.nav-bar-3{
+    margin: auto;
+}
+
+.nav-bar-2 a{
+    color: white;
+   margin:0 8px;
+} 
+
+.nav-bar-3 button{
+    border-radius: 20px;
+    height: 2rem;
+    margin-right: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    
+}
+
+.mid-h1{
+    text-align: center ;
+}
+.mid-p{
+    text-align: center;
+}
+
+.mid-btn{
+    text-align: center;
+    
+}
+
+.mid-btn button{
+    background-color: #3A7DFF;
+    color: white;
+    padding: 10px;
+    border-radius: 28px;
+    margin-left: 10px;
+    
+}
+
+.middle img{
+    height: 815px;
+    width:1100;
+    margin-left: 2rem;
+}
+
+.card{
+    display: flex;
+}
+
+.card img{
+    height: 320px;
+    width:320px ;
+}
+
+.div-img img{
+    width: 1235px;
+}
+
+.footer-1{
+    background-color: #071A45;
+    height: 256px;
+    margin-left: 26px;
+    width: 1240px;
+    display: flex;
+   
+}
+
+.f-1{
+    color: white;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.f-1 h2 i{
+    opacity: 0.7;
+}
+
+.f-1 p{
+    opacity: 0.7;
+}
+.f-1 button{
+    background-color:#071A45 ;
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 170px;
+}
+
+.f-2{
+    color: white;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.f-2 h3{
+    color: white;
+}
+.f-2 a{
+    color: white;
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.f-3{
+    color: white;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.f-3 h3{
+    color: white;
+}
+.f-3 a{
+    color: white;
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.f-4{
+    color: white;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.f-4 h3{
+    color: white;
+}
+.f-4 a{
+    color: white;
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.f-4 input{
+    width:170px;
+    height: 35px;
+    border-radius: 15px;
+}
+
+.f-4 button{
+    background-color:#3A7DFF ;
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 170px;
+}
+
+.footer-2{
+    background-color: #071A45;
+    height: 36px;
+    margin-left: 26px;
+    width: 1240px;
+   
+}
+
+.f2-icons{
+    color: white;
+    margin :0px 20px;
+    text-align: center;
+}
+.icon{
+    margin: 5px;
+}
